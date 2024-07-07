@@ -32,6 +32,5 @@ Human = True
 print("Are you A Human : " + str(Human)) 
 print(type(Human))
 
-Hello
 
 
